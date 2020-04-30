@@ -24,14 +24,14 @@ Per configurare il sistema accedere al file Configurazione.java e inserire:
     
 N.B. se si cambia il numero dei contesti vanno riviste:
     
-     top10LocaliPerCombinazione.java 
-     matriceContestoItemFile.java
+     Top10LocaliPerCombinazione.java 
+     MatriceContestiItemFile.java
  
 ## Generazione files necessari per avviare la web-app
 
 1-  Selezionare una configurazione tra "unigrammi", "bigrammi" e "unibigrammi" nel file **Configurazione.java**.
 
-2-  Avviare il file **main.java**
+2-  Avviare il file **Main.java**
 
 ## Avvio web-app
 Avviare la web app su **Tomcat**. Controllare che la versione di java utilizzata sia compatibile con la versione di tomcat.
